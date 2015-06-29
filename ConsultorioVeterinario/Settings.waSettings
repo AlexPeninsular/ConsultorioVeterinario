@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><settings>
-	<project publicName="" listen="0" hostName="https://veterinariodoctorapaz.us-git.wak-apps.com" responseFormat="json">
+	<project publicName="" listen="192.168.1.104" hostName="http://consultorioveterinario-mary.us.wak-apps.com/" responseFormat="json">
 		<database>
 			<journal enabled="false" journalFolder="./"/>
 		</database>
